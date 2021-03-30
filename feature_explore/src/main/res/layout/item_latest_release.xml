@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="@dimen/dp_5"
+    android:layout_marginTop="@dimen/dp_5"
+    tools:ignore="MissingDefaultResource">
+
+    <TextView
+        android:id="@+id/tv_chaper"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_2"
+        android:layout_marginBottom="@dimen/dp_5"
+        android:text="Chapter 1"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/sp_15"
+        android:layout_alignParentRight="true"/>
+
+    <TextView
+        android:id="@+id/tv_nearby_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dp_2"
+        android:layout_marginRight="@dimen/dp_5"
+        android:layout_marginBottom="@dimen/dp_5"
+        android:text="@string/lorem_ipsum_dolor"
+        android:layout_alignParentLeft="true"
+        android:layout_alignLeft="@id/tv_chaper"
+        android:textColor="@color/textColor"
+        android:textSize="@dimen/sp_15" />
+</RelativeLayout>

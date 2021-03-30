@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_not_found">Data not found</string>
+    
+    <string name="explore_activities">Explore activities</string>
+    <string name="inspire_yourself">Inspire yourself</string>
+    <string name="find_nearby"> Find nearby</string>
+
+    <string name="fake_minus">6 minus ago</string>
+    <string name="lorem_ipsum_dolor">lorem ipsum dolor sit amet</string>
+    <string name="lorem_ipsum">lorem ipsum dolor</string>
+    <string name="and_more">...</string>
+
+    <string name="hot_novel">Hot Novel</string>
+    <string name="latest_release">Latest Release</string>
+    <string name="novel_complete">Novel Complete</string>
+</resources>

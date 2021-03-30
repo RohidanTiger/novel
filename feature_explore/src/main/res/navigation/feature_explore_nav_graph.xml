@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/exploreListFragment">
+
+    <fragment
+        android:id="@+id/exploreListFragment"
+        android:name="com.igorwojda.showcase.feature.explore.presentation.explorelist.ExploreListFragment"
+        android:label="ExploreListFragment" />
+</navigation>

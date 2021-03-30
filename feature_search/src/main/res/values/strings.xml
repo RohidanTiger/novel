@@ -1,0 +1,49 @@
+<resources>
+    <string name="under_construction">Under construction</string>
+
+    <array name="novel_type">
+        <item>Latest release</item>
+        <item>Hot Novel</item>
+        <item>Completed Novel</item>
+        <item>Most popular</item>
+    </array>
+
+    <array name="genre_type">
+        <item>Action</item>
+        <item>Adult</item>
+        <item>Adventure</item>
+        <item>Ai</item>
+        <item>Arts</item>
+        <item>Bender</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Ecchi</item>
+        <item>Fantasy</item>
+        <item>Game</item>
+        <item>Gender</item>
+        <item>Gender bender</item>
+        <item>Harem</item>
+        <item>Historical</item>
+        <item>History</item>
+        <item>Horror</item>
+        <item>Josei</item>
+        <item>Lolicon</item>
+        <item>Martial</item>
+        <item>Martial arta</item>
+        <item>Mature</item>
+        <item>Mecha</item>
+        <item>Modern life</item>
+        <item>Mystery</item>
+        <item>Psychological</item>
+        <item>Romance</item>
+        <item>School life</item>
+        <item>Sci-fi</item>
+        <item>Seinen</item>
+        <item>Shoujo</item>
+        <item>Shoujo ai</item>
+        <item>Shounen</item>
+        <item>Shounen ai</item>
+        <item>Slice of life</item>
+        <item>Smut</item>
+    </array>
+</resources>

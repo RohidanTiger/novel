@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">showcase</string>
+
+    <!--Dynamic module titles-->
+    <string name="feature_album">feature album</string>
+    <string name="feature_favourite">feature favourite</string>
+    <string name="feature_profile">feature profile</string>
+    <string name="feature_explore">feature explore</string>
+    <string name="feature_search">feature search</string>
+
+    <!--Bottom menu-->
+    <string name="albums">Albums</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="explore">Explore</string>
+    <string name="search">Search</string>
+
+</resources>
